@@ -1,0 +1,140 @@
+Label,annual_cases
+Chlamydia trachomatis infection,2836057
+Gonorrhea,927242
+Campylobacteriosis,142323
+"Hepatitis C, chronic, Probable",121318
+Salmonellosis (excluding Salmonella Typhi infection and Salmonella Paratyphi infection),84588
+"Hepatitis C, chronic, Confirmed",78994
+"Coccidioidomycosis, Confirmed",42356
+"Invasive pneumococcal disease, all ages, Confirmed",32984
+"Hepatitis B, chronic, Probable",28204
+"Coccidioidomycosis, total",27068
+Pertussis,25303
+Giardiasis,25025
+Shigellosis,24372
+Shiga toxin-producing Escherichia coli (STEC),23487
+"Syphilis, Primary and secondary",19496
+Cryptosporidiosis,18284
+"Coccidioidomycosis, Total",15661
+"Hepatitis B, chronic, Confirmed",14188
+Legionellosis,10175
+"Haemophilus influenzae, invasive disease, All ages, all serotypes",9470
+"Carbapenemase-Producing Organisms (CPO), Total",9211
+Coccidioidomycosis,8481
+Tuberculosis,8467
+"Candida auris, clinical",5898
+"Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection",5431
+"Candida auris, screening",5262
+Varicella disease,4891
+"Hepatitis C, acute, Confirmed",4809
+Cyclosporiasis,4211
+Varicella morbidity,3550
+Babesiosis,3080
+"Vibriosis (any species of the family Vibrionaceae, other than toxigenic Vibrio cholerae O1 or O139), Probable",2962
+Malaria,1927
+"Vibriosis (any species of the family Vibrionaceae, other than toxigenic Vibrio cholerae O1 or O139), Confirmed",1769
+"Invasive pneumococcal disease, all ages, Probable",1733
+"Hepatitis B, acute, Confirmed",1539
+"Invasive pneumococcal disease, age <5 years, Confirmed",1482
+"Measles, Indigenous",1272
+"Hepatitis C, acute, Probable",1179
+"Listeriosis, Confirmed",974
+"Hepatitis, B, acute",939
+"Hepatitis A, Confirmed",921
+"Ehrlichiosis and Anaplasmosis, Ehrlichia chaffeensis infection",915
+Mpox,913
+"Hepatitis, A, acute",892
+"Haemophilus influenzae, invasive disease, Age <5 years, Unknown serotype",748
+"Meningococcal disease, All serogroups",742
+"Dengue virus infections, Dengue",729
+"Rabies, Animal",648
+Streptococcal toxic shock syndrome,610
+"Meningococcal disease, Unknown serogroup",610
+"Arboviral diseases, West Nile virus disease",580
+"Hepatitis B, acute, Probable",513
+Mumps,445
+"Coccidioidomycosis, Probable",373
+Carbapenemase-producing carbapenem-resistant Enterobacteriaceae,351
+Hemolytic uremic syndrome post-diarrheal,345
+Salmonella Typhi infection,303
+Influenza-associated pediatric mortality,266
+"Arboviral diseases, Chikungunya virus disease",220
+"Hepatitis C, perinatal, Confirmed",193
+"Q fever, Total",172
+Tularemia,166
+"Listeriosis, Probable",158
+"Botulism, Infant",145
+"Invasive pneumococcal disease, age <5 years, Probable",138
+"Q fever, Acute",135
+Brucellosis,126
+"Hepatitis C, perinatal infection",108
+"Ehrlichiosis and Anaplasmosis, Undetermined ehrlichiosis/anaplasmosis",77
+"Haemophilus influenzae, invasive disease, Age <5 years, Nontypeable",75
+"Measles, Imported",67
+Vancomycin-intermediate Staphylococcus aureus,66
+Salmonella Paratyphi infection,65
+Leptospirosis,64
+Leprosy (Hansen's disease),60
+"Haemophilus influenzae, invasive disease, Age <5 years, Non-b serotype",60
+"Meningococcal disease, Serogroups ACWY",60
+"Meningococcal disease, Other serogroups",55
+Tetanus,46
+"Q fever, Chronic",37
+Chancroid,35
+Hansen's disease,33
+"Hepatitis B, acute",30
+SalmonellaParatyphi infection,27
+"Haemophilus influenzae, invasive disease, Age <5 years, Serotype b",21
+"Syphilis, Congenital",21
+"Meningococcal disease, Serogroup B",17
+Toxic shock syndrome (other than Streptococcal),16
+"Arboviral diseases, La Crosse  virus disease",15
+Rubella,14
+"Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection",13
+"Arboviral diseases, Powassan virus disease",13
+"Dengue virus infections, Dengue-like illness",12
+Psittacosis,11
+"Hepatitis B, perinatal infection",11
+"Botulism, Other (wound & unspecified)",9
+"Botulism, Foodborne",8
+Trichinellosis,7
+"Hepatitis B, perinatal, Confirmed",6
+"Dengue virus infections, Severe dengue",6
+"Zika virus disease, non-congenital",5
+Novel Influenza A virus infections,5
+Hantavirus pulmonary syndrome,5
+"Arboviral diseases, Eastern equine encephalitis virus disease",4
+Melioidosis,4
+"Arboviral diseases, Jamestown Canyon  virus disease",2
+Vancomycin-resistant Staphylococcus aureus,2
+"Arboviral diseases, Western equine encephalitis virus disease",1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",1
+"Arboviral diseases, St. Louis encephalitis virus disease",1
+"Viral hemorrhagic fevers, Junin virus",0
+"Viral hemorrhagic fevers, Guanarito virus",0
+"Viral hemorrhagic fevers, Lassa virus",0
+"Viral hemorrhagic fevers, Lujo virus",0
+"Viral hemorrhagic fevers, Machupo virus",0
+"Viral hemorrhagic fevers, Marburg virus",0
+"Viral hemorrhagic fevers, Ebola virus",0
+"Viral hemorrhagic fevers, Crimean-Congo hemorrhagic fever virus",0
+"Viral hemorrhagic fevers, Chapare virus",0
+"Viral hemorrhagic fevers, Rift Valley fever virus",0
+"Viral hemorrhagic fevers, Sabia virus",0
+Yellow fever,0
+"Rabies, Human",0
+COVID-19-associated pediatric mortality,0
+"Rubella, congenital syndrome",0
+Cholera,0
+"Cronobacter invasive infection, infants, Confirmed",0
+"Cronobacter invasive infection, infants, Probable",0
+"Novel Influenza A virus infections, Confirmed",0
+Smallpox,0
+"Novel Influenza A virus infections, Probable",0
+"Novel Influenza A virus infections, Total",0
+Severe acute respiratory syndrome-associated coronavirus disease,0
+"Oropouche, non-congenital",0
+Plague,0
+"Poliomyelitis, paralytic",0
+"Poliovirus infection, nonparalytic",0
+Anthrax,0
