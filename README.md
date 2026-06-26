@@ -3,8 +3,8 @@
 # Probabilistic Ensemble Forecasting of Chlamydia Trachomatis Incidence Across US States
 
 This repository contains all code associated with the manuscript:
-"A probabilistic ensemble for short-term weekly forecasting of Chlamydia
-trachomatis incidence across US states" (submitted to PLOS Computational Biology).
+"A probabilistic ensemble for weekly forecasting of Chlamydia
+trachomatis incidence in the USA" (submitted to PLOS Computational Biology).
 
 ---
 
